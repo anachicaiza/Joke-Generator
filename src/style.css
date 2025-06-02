@@ -1,0 +1,16 @@
+button {
+  background: blueviolet;
+  color: white;
+  margin: 20px;
+  padding: 10px;
+  font-size: 15px;
+  border: 1px solid blueviolet;
+  border-radius: 8px;
+  box-shadow: 0 10px 10px rgba(65, 50, 100, 0.8);
+}
+
+#joke {
+  margin: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+}
